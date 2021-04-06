@@ -1,0 +1,5 @@
+D:\code visual\baitap2\bin\Debug\baitap2.exe
+D:\code visual\baitap2\bin\Debug\baitap2.pdb
+D:\code visual\baitap2\obj\Debug\baitap2.csproj.CoreCompileInputs.cache
+D:\code visual\baitap2\obj\Debug\baitap2.exe
+D:\code visual\baitap2\obj\Debug\baitap2.pdb
